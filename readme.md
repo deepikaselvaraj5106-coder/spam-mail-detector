@@ -61,7 +61,7 @@ A professional Machine Learning web application that classifies messages as **Sp
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/spam-mail-detector.git
+git clone https://github.com/deepikaselvaraj5106-coder/spam-mail-detector
 cd spam-mail-detector
 ```
 

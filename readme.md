@@ -46,15 +46,6 @@ A professional Machine Learning web application that classifies messages as **Sp
 
 ---
 
-## 📸 Screenshots
-
-*Add your screenshots here*
-
-* ✅ Not Spam Prediction
-* 🚨 Spam Detection
-* 📊 Confidence Score Display
-
----
 
 ## ▶️ How to Run Locally
 
